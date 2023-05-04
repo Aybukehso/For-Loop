@@ -1,2 +1,2 @@
-# For-Dongusu
+# For-Loop
  for döngüsü çalışma örneği
