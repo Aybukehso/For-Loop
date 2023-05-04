@@ -1,2 +1,2 @@
-# ForD-ng-s-
+# For-Dongusu
  for döngüsü çalışma örneği
